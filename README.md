@@ -219,3 +219,6 @@ https://core.telegram.org/bots/api
 
 ### Getting started with telegram bots -Tutorial-
 https://unnikked.ga/getting-started-with-telegram-bots
+
+### telegram Bot wiki page in Domoticz
+http://www.domoticz.com/wiki/Telegram_Bot
