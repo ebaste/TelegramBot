@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 
 ##   Basic example of Telegram API calls
-##   IMPORTANT: You should add the token value in the file config.py  
+##   IMPORTANT: You should add the token value in the file config.py
+##   With this format
+##   TOKEN = '999999999:AAAAAAAAAAAAAAAAAAAAAAAA'
 ##   You need to install requests and JSON modules 
 
 import requests
